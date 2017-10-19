@@ -14,3 +14,10 @@
     -moz-animation-delay: 2s;
     -o-animation-delay: 2s;
 }
+
+.animated {
+    visibility: visible !important;
+}
+.hide-on-init {
+    visibility: hidden;
+}
