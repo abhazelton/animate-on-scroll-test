@@ -1,3 +1,7 @@
+# Interested in taking over this project?
+
+I haven't had time to maintain this project, and have all but stopped working on Angular projects, so if someone would like to take this over, I'm happy to transfer it over. Please contact me if interested.
+
 # AnimateOnScrollTest
 
 ## Purpose
